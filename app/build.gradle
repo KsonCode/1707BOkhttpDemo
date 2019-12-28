@@ -44,4 +44,7 @@ dependencies {
     implementation 'com.jakewharton:butterknife:10.2.1'
     //注解/处理器
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+
+    //okhttp日志拦截器
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.2.2'
 }

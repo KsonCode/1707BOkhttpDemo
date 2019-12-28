@@ -93,6 +93,19 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+//        String keyrod = "手机";
+//
+//        OkhttpUtils.getInstance().doGet(Api.PRODUCT_URL + "?keyword="+keyrod+"&count=5&page=1", new OkhttpUtils.OkhttpCallback() {
+//            @Override
+//            public void onResponse(String result) {
+//
+//            }
+//
+//            @Override
+//            public void onFailure(Throwable throwable) {
+//
+//            }
+//        });
 
 
 
